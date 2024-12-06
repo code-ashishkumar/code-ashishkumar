@@ -2,7 +2,7 @@
 
 ## Welcome to My GitHub Profile! 🚀
 
-I'm a passionate **MERN Stack Engineer**, **Django Developer**, and **UI Designer** with a knack for building interactive, high-performance web applications. With over **3 years of experience**, I've contributed to projects across industries, delivering professional and stunning solutions.
+I'm a passionate **React Developer**, **Django Developer**, and **UI Designer** with a knack for building interactive, high-performance web applications. With over **3 years of experience**, I've contributed to projects across industries, delivering professional and stunning solutions.
 
 ---
 
