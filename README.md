@@ -7,7 +7,7 @@ I'm a passionate **React Developer**, and **UI Designer** with a knack for build
 ---
 
 ### 💡 About Me:
-- **Location:** Chandigarh, India 🇮🇳
+- **Location:** India 🇮🇳
 - **Experience:** MERN Stack | Django | Tailwind CSS | Framer Motion | Redux Toolkit
 - **Interests:** Building unique UI/UX designs, scalable backend systems, and exploring cutting-edge technologies.
 - **Fun Fact:** I love creating AI conversational bots in Python and experimenting with innovative design techniques.
@@ -39,4 +39,4 @@ I'm a passionate **React Developer**, and **UI Designer** with a knack for build
 ### 🌟 Connect With Me:
 - **Portfolio:** [My Projects](https://portfolio-git-main-god-likes-projects.vercel.app)
 - **LinkedIn:** [Ashish Kumar](https://www.linkedin.com/in/ashish-kumar-as12/)
-- **GitHub:** [@code-ashishkumar](https://github.com/godlike-coder)
+- **GitHub:** [@code-ashishkumar](https://github.com/code-ashishkumar)
